@@ -22,11 +22,11 @@ setup(
 
     long_description_content_type='text/markdown',
 
-    version='0.2',    # keep on changing
+    version='0.3',    # keep on changing
 
     url='https://github.com/maen08/tzunipy',
 
-    download_url='https://github.com/maen08/tzunipy/archive/refs/tags/v0.2.tar.gz',
+    download_url='https://github.com/maen08/tzunipy/archive/refs/tags/v0.3.tar.gz',
 
     author='Stanley Ruheza',
 
