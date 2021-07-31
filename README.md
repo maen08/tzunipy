@@ -31,7 +31,7 @@ pip3 install tzunipy
 - Show all universities per region given
 - Show colleges per university
 - Show programms pursued per college
-- Show the program-duration (if neccessary)
+- Show the program-duration (if necessary)
 
 ---
 
