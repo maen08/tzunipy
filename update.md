@@ -22,3 +22,7 @@ Contributions to tzunipy are welcome! Here's how to get started:
 - Create a new branch off the master branch.
 - Write a test which shows that the bug was fixed or that the feature works as expected.
 - Send a pull request and i'll merge it.
+
+
+###### Done ?
+- Take a cup of coffee, i'll come to pay for you...haha !
