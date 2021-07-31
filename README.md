@@ -1,7 +1,7 @@
 # Tzunipy
 
 - A python package that gives information about different Universities in Tanzania.
-- tzunipy made by [maen08](https://github.com/maen08)
+- [tzunipy](https://pypi.org/project/tzunipy/0.3/) made by [maen08](https://github.com/maen08)
 
 
 
