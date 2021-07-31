@@ -65,4 +65,4 @@ pip3 install tzunipy
 
 ### Contribution
 - Whoever wish to contribute in this project (direct or indirect), please read 
-the file 'update.md'
+the file [update.md](https://github.com/maen08/tzunipy/blob/master/update.md)

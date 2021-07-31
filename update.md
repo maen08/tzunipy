@@ -5,9 +5,10 @@
 ### Todo:
 
 - [x] Show all universities in Tanzania
-- Add colleges per university
-- Add programms pursued per college
-- Show program duration (if neccessary)
+- [x] Show all universities per region given
+- [ ] Add colleges per university
+- [ ] Add programms pursued per college
+- [ ] Show program duration (if neccessary)
 
 
 
