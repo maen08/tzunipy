@@ -13,7 +13,14 @@
 ### Install
 Run this command to install the current stable version:
 
-`pip install tzunipy`
+```sh
+pip install tzunipy
+
+# or using pip3
+
+pip3 install tzunipy
+
+```
 
 
 ---
