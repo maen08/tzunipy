@@ -1,4 +1,4 @@
-from uni import university
+from .uni import university
 
 
 """
