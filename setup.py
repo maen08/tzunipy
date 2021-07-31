@@ -22,7 +22,7 @@ setup(
 
     long_description_content_type='text/markdown',
 
-    version='0.1',    # keep on changing
+    version='0.2',    # keep on changing
 
     url='https://github.com/maen08/tzunipy',
 

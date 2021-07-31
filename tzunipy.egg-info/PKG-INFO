@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: tzunipy
-Version: 0.1
+Version: 0.2
 Summary: A python package that provides details about Universities of Tanzania
 Home-page: https://github.com/maen08/tzunipy
 Author: Stanley Ruheza
 Author-email: 2001stany@gmail.com
 License: MIT
-Download-URL: https://github.com/maen08/tzunipy/archive/refs/tags/v0.1.tar.gz
+Download-URL: https://github.com/maen08/tzunipy/archive/refs/tags/v0.2.tar.gz
 Description: # Tzunipy
         
         - A python package that gives information about different Universities in Tanzania.
