@@ -1,6 +1,6 @@
 # Tzunipy
 
-tzunipy made by [maen08](https://github.com/maen08)
+- tzunipy made by [maen08](https://github.com/maen08)
 A python package that gives information about different Universities in Tanzania.
 
 
@@ -26,3 +26,32 @@ Run this command to install the current stable version:
 - [ ] Shows program duration (if neccessary)
 
 ---
+
+### Usage
+
+```sh
+>>> from tzuni import TzUniPy
+
+
+
+# get all universities
+
+>>> TzUniPy.all_universities()
+[
+   'University of Dar es Salaam UDSM (Dar es Salaam)', 
+   'Sokoine University of Agriculture SUA (Morogoro)', 
+   'Open University of Tanzania OUT (Dar es Salaam)', 
+   '....',
+    '....',
+   
+]
+
+
+# get universities from a given region
+>>> TzUniPy.get_univeristy('Dodoma')
+
+>>> ['University of Dodoma UDOM (Dodoma)', "St. John's University of Tanzania SJUT (Dodoma)"]
+
+
+
+```

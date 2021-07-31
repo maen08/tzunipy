@@ -11,7 +11,7 @@ class TzUniPy():
     method which returns all universities in Tanzania
     """
     def all_universities():
-        # print(university)
+        print(university)
         return university
 
 
@@ -26,4 +26,9 @@ class TzUniPy():
 
         # print(uni_in_region)
         return uni_in_region
+
+
+
+if __name__ == '__main__':
+    TzUniPy()
 
