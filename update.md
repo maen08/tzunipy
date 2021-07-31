@@ -1,8 +1,8 @@
-### Improve this package
+## Improve the package
 
 #
 
-###### The following are features and required functionalities to be implemented:
+### Todo:
 
 - [x] Show all universities in Tanzania
 - Add colleges per university
