@@ -38,7 +38,7 @@ pip3 install tzunipy
 ### Usage
 
 ```sh
->>> from tzuni import TzUniPy
+>>> from tzunipy import TzUniPy
 
 
 # get all universities

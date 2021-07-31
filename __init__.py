@@ -1,1 +1,1 @@
-from tzuni import TzUniPy
+from tzunipy import TzUniPy
