@@ -26,7 +26,7 @@ setup(
 
     url='https://github.com/maen08/tzunipy',
 
-    download_url='https://github.com/ioi2908/djangoroku/archive/v_01.tar.gz',
+    download_url='https://github.com/maen08/tzunipy/archive/refs/tags/v0.1.tar.gz',
 
     author='Stanley Ruheza',
 
