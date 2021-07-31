@@ -28,9 +28,10 @@ pip3 install tzunipy
 ### Features
 
 - [x] Show all universities in Tanzania
-- [ ] Shows colleges per university
-- [ ] Shows programms pursued per college
-- [ ] Shows program duration (if neccessary)
+- [x] Show all universities per region given
+- [ ] Show colleges per university
+- [ ] Show programms pursued per college
+- [ ] Show the program-duration (if neccessary)
 
 ---
 
