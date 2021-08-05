@@ -18,7 +18,7 @@ class TzUniPy():
     """
     method which returns all universities in a given region
     """
-    def get_univeristy(region):
+    def get_university(region):
         uni_in_region = []
         for x in university:
             if region in x:

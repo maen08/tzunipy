@@ -56,7 +56,7 @@ pip3 install tzunipy
 
 
 # get universities from a given region
->>> TzUniPy.get_univeristy('Dodoma')
+>>> TzUniPy.get_university('Dodoma')
 
 >>> ["University of Dodoma UDOM (Dodoma)",
       "St. John's University of Tanzania SJUT (Dodoma)"]
