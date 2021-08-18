@@ -1,0 +1,15 @@
+name: Publish New Version Action
+on: [push]
+jobs:
+  Github-Action-Publish-Package:
+    runs-on: ubuntu-latest
+    steps:
+      - run: python setup.py sdist
+      - run: twine upload dist/*
+      - run: echo "🎉 Triggered by ${{ github.event_name }} event."
+      - run: echo "🐧 Running on ${{ runner.os }} server hosted by GitHub!"
+      - name: List repository files 
+        run: |
+          ls ${{ github.workspace }}
+      - run: echo "🍏 Job's status is ${{ job.status }}."
+
