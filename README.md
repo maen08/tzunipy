@@ -31,7 +31,7 @@ pip3 install tzunipy
 - Show all universities per region given
 - Show colleges per university
 - Show programms pursued per college
-- Show the program-duration (if neccessary)
+- Show the program-duration (if necessary)
 
 ---
 
@@ -56,9 +56,10 @@ pip3 install tzunipy
 
 
 # get universities from a given region
->>> TzUniPy.get_univeristy('Dodoma')
+>>> TzUniPy.get_university('Dodoma')
 
->>> ['University of Dodoma UDOM (Dodoma)', "St. John's University of Tanzania SJUT (Dodoma)"]
+>>> ["University of Dodoma UDOM (Dodoma)",
+      "St. John's University of Tanzania SJUT (Dodoma)"]
 
 
 ```
